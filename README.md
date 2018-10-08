@@ -32,5 +32,5 @@ wget -dump https://www.aozora.gr.jp/cards/000148/files/773_14560.html > "雨ニ�
 vim "雨ニモマケズ.txt"
 
 # 変換実施
-sh ../../vendor/main.sh "雨ニモマケズ.txt"
+sh ../../convert.sh "雨ニモマケズ.txt"
 ```
